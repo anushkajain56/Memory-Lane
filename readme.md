@@ -78,7 +78,7 @@ A SwiftUI iOS app that lets you capture memories with photos, notes, and locatio
 ---
 
 ## 🙌 Credits & Inspiration
-- Built using the Built using the [**CodeDreams tool**](https://codedreams.app/)
+- Built using using the [**CodeDreams tool**](https://codedreams.app/)
 - Apple’s official SwiftUI and CoreLocation documentation.  
 - SF Symbols for icons.  
 
@@ -87,6 +87,6 @@ A SwiftUI iOS app that lets you capture memories with photos, notes, and locatio
 ## 📄 License & Contact
 **License:** MIT  
 
-**Author:** [Your Name]  
-- 📧 your.email@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+**Author:** Anushka Jain 
+- 📧 ajain887@gatech.edu
+- 💼 [LinkedIn](https://linkedin.com/in/anushkajain56)  
