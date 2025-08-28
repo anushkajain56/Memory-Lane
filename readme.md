@@ -89,4 +89,4 @@ A SwiftUI iOS app that lets you capture memories with photos, notes, and locatio
 
 **Author:** Anushka Jain 
 - 📧 ajain887@gatech.edu
-- 💼 [LinkedIn](https://linkedin.com/in/anushkajain56)  
+- 💼 [LinkedIn](https://linkedin.com/in/anushka-jain56/)  
