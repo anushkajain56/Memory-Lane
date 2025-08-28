@@ -6,10 +6,10 @@ A SwiftUI iOS app that lets you capture memories with photos, notes, and locatio
 ---
 
 ## 📱 Screens & Demo
-![Screenshot 1](./images_memory_lane/screenshot_1.png)  
-![Screenshot 2](./images_memory_lane/screenshot_2.png)  
-![Screenshot 3](./images_memory_lane/screenshot_3.png)  
-![Screenshot 4](./images_memory_lane/screenshot_4.png)  
+![Screenshot 1](./images_memory_lane/screenshot_1)  
+![Screenshot 2](./images_memory_lane/screenshot_2)  
+![Screenshot 3](./images_memory_lane/screenshot_3)  
+![Screenshot 4](./images_memory_lane/screenshot_4)  
 
 **Quick Walkthrough:**  
 1. Open the app and take a photo or add a note.  
