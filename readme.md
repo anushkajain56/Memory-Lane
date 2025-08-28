@@ -7,10 +7,10 @@ A SwiftUI iOS app that lets you capture memories with photos, notes, and locatio
 
 ## 📱 Screens & Demo
 <p align="center">
-  <img src="./images_memory_lane/screenshot_1" alt="Screenshot 1" width="24%">
+<img src="./images_memory_lane/screenshot_1" alt="Screenshot 1" width="24%">
 <img src="./images_memory_lane/screenshot_3" alt="Screenshot 3" width="24%">
-	 <img src="./images_memory_lane/screenshot_4" alt="Screenshot 4" width="24%">
-  <img src="./images_memory_lane/screenshot_2" alt="Screenshot 2" width="24%">
+<img src="./images_memory_lane/screenshot_4" alt="Screenshot 4" width="24%">
+<img src="./images_memory_lane/screenshot_2" alt="Screenshot 2" width="24%">
   
  
 </p>
@@ -60,7 +60,7 @@ A SwiftUI iOS app that lets you capture memories with photos, notes, and locatio
 ## 🚀 Setup (Run in 2 Minutes)
 1. Clone the repo:  
    ```bash
-   git clone [this repo link]
+   git clone https://github.com/anushkajain56/Memory-Lane
    ```
 2. Open in Xcode:
 	```bash
